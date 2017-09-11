@@ -8,7 +8,7 @@ int main()
   int bb = 2;
   std::string name;                 
   
-  while (countie < 49) {
+  while (count < 49) {
       
       std::cout << "=if(F";
       std::cout << bb;
