@@ -1,0 +1,22 @@
+#include <iostream>
+#include <string>
+
+
+int main()
+{
+  int count = 0;    
+  int bb = 2;
+  std::string name;                 
+  
+  while (countie < 49) {
+      
+      std::cout << "=if(F";
+      std::cout << bb;
+      std::cout << " = \"N\", B";
+      std::cout << bb;
+      std::cout << ", \"not yet\")" << std::endl;
+      bb++;
+      count++;
+      
+  }
+}
